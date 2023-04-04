@@ -1,0 +1,4 @@
+clear
+cp /sdcard/Android/data/xxTR/xxTR /system/bin/xxTR
+chmod 755 /system/bin/xxTR
+xxTR
